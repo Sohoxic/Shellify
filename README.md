@@ -1,4 +1,3 @@
-
 # Shellify
 
 Shellify is a simple, yet powerful command-line shell designed for Unix-based systems. It aims to provide users with the ability to execute commands, handle file redirection, pipes, command chaining, and a history feature to navigate through previously executed commands.
@@ -58,5 +57,5 @@ Pb Shell supports several internal commands:
 
 ## Contributions
 
-Contributions to Pb Shell are welcome! Feel free to fork the project, make changes, and submit pull requests.
+Contributions to Shellify are welcome! Feel free to fork the project, make changes, and submit pull requests.
 
