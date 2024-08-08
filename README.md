@@ -12,7 +12,7 @@ Shellify is a simple, yet powerful command-line shell designed for Unix-based sy
 
 ## Getting Started
 
-To use Pb Shell, compile the project using a C compiler like `gcc`. Here is a step-by-step guide:
+To use Shellify, compile the project using a C compiler like `gcc`. Here is a step-by-step guide:
 
 1. Clone this repository or download the source code.
 2. Navigate to the source code directory.
@@ -25,18 +25,18 @@ make
 4. Run the shell:
 
 ```bash
-./shellac
+./shellify
 ```
 
 You can also execute commands from a file by passing the filename as an argument:
 
 ```bash
-./shellac filename.txt
+./shellify filename.txt
 ```
 
 ## Internal Commands
 
-Pb Shell supports several internal commands:
+Shellify supports several internal commands:
 
 - `cd`: Change the current directory.
 - `clear`: Clear the console.
